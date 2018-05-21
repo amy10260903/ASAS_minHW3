@@ -152,3 +152,15 @@ Pbind(
 ).play;
 )
 ```
+## mini-HW SuperCollider Basics
+Please refer to "SC_HW.pdf".
+
+* Q1: Please try to transcribe the famous folk songs "Twinkle Twinkle Little Star" in supercollider code with proper pitch, rythm and tempo. You can start from the code "Question1_starter.scd". Some simple exmaple in this code may also help you.
+
+* Q2: Please refer to "SC-Problem2.pptx".
+
+Please hand in your codes with proper comments.
+
+* Bonus: Try to trace the code "Markov-algo.scd". Briefly explain the code and make the generating music more beautiful/interesting/euphonic..., etc.
+
+For bonus, please hand in your modified code and a short PDF report in one page.
